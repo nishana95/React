@@ -10,6 +10,7 @@ import Footer from './footer.jsx'
 import Events from './events.jsx'
 import Parameter from './parameter.jsx'
 import Conditional from './conditional.jsx'
+import Colorbuttons from './color_buttons.jsx'
 function App() {
 
   return (
@@ -24,6 +25,7 @@ function App() {
         <Events/>
         <Parameter/>
         <Conditional/>
+        <Colorbuttons/>
        </div>
     </>
   )

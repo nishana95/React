@@ -22,7 +22,7 @@ function greet(){
         <Buttons label="Login"/>
     </div>
     <div>
-        <Cards title="Card Title 1" text="This is the text for card 1."/>
+        <Cards title="Card Title 1" text="This is the description for card 1."/>
         <Cards title="Card Title 2" text="This is the description for card 2."/>             
         <Cards title="Card Title 3" text="This is the description for card 3."/>
         <Cards title="Card Title 4" text="This is the description for card 4."/>
