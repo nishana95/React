@@ -5,8 +5,7 @@ function color_buttons() {
         const alertBox = document.getElementById("displaytext");
         alertBox.innerText = `You clicked the ${color} button`;
         alertBox.style.color = color;
-        alertBox.style.borderColor = color;
-        alertBox.style.display = "block";
+        
     }
     return (
         <>

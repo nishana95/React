@@ -11,6 +11,10 @@ import Events from './events.jsx'
 import Parameter from './parameter.jsx'
 import Conditional from './conditional.jsx'
 import Colorbuttons from './color_buttons.jsx'
+import List from './list.jsx'
+import Listindex from './listindex.jsx'
+import Array from './array.jsx'
+import Productlist from './product_list.jsx'
 function App() {
 
   return (
@@ -26,6 +30,11 @@ function App() {
         <Parameter/>
         <Conditional/>
         <Colorbuttons/>
+
+        <List/>
+        <Listindex/>
+        <Array/>
+        <Productlist/>
        </div>
     </>
   )
